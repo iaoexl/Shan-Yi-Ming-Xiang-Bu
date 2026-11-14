@@ -24,37 +24,22 @@
 
 ## 你可以在这些地方找到我 (Find Me Here)
 
-<div class="footer-links" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 12px 28px; margin: 24px 0; padding: 10px 0; font-size: 14px;">
-
-  <span style="display: inline-flex; align-items: center; gap: 8px; white-space: nowrap;">
-    <a href="https://gitcode.com/iaoexl" target="_blank" rel="noopener"
-       style="text-decoration: none; color: #e03636; display: inline-flex; align-items: center; gap: 8px;">
-      <img src="https://gitcode.com/favicon.ico" alt="GitCode" style="width: 18px; height: 18px;">
-      GitCode
-    </a>
-    <span style="color: #999;">/</span>
-    <a href="https://atomgit.com/iaoexl" target="_blank" rel="noopener"
-       style="text-decoration: none; color: #e03636; display: inline-flex; align-items: center; gap: 8px;">
-      AtomGit
-    </a>
-  </span>
-
-  <a href="https://cnb.cool/u/iaoexl" target="_blank" rel="noopener"
-     style="text-decoration: none; color: #e03636; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://cnb.cdn-go.cn/monorepo/00895daf/aff405ccedebcc2f/images/favicon.ico" alt="腾讯云 CNB" style="width: 18px; height: 18px;">
-    腾讯云 CNB
+<p align="center">
+  <a href="https://gitcode.com/iaoexl" target="_blank" rel="noopener">
+    <img src="images/favicon_gitcode.ico" width="18" height="18" alt="GitCode">&nbsp;GitCode
   </a>
-
-  <a href="https://gitee.com/iaoexl" target="_blank" rel="noopener"
-     style="text-decoration: none; color: #c71d23; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://gitee.com/favicon.ico" alt="Gitee" style="width: 18px; height: 18px;">
-    Gitee
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://atomgit.com/iaoexl" target="_blank" rel="noopener">AtomGit</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://cnb.cool/u/iaoexl" target="_blank" rel="noopener">
+    <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
   </a>
-
-  <a href="https://github.com/iaoexl" target="_blank" rel="noopener"
-     style="text-decoration: none; color: #586069; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://images.cnblogs.com/cnblogs_com/blogs/421667/galleries/1254262/t_261101103530_GitHub.svg" alt="GitHub" style="width: 18px; height: 18px;">
-    GitHub
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://gitee.com/iaoexl" target="_blank" rel="noopener">
+    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
   </a>
-
-</div>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/iaoexl" target="_blank" rel="noopener">
+    <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
+</p>
