@@ -28,17 +28,18 @@
   <a href="https://gitcode.com/iaoexl" target="_blank" rel="noopener">
     <img src="images/favicon_gitcode.ico" width="18" height="18" alt="GitCode">&nbsp;GitCode
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://atomgit.com/iaoexl" target="_blank" rel="noopener">AtomGit</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span style="color: #999;">&nbsp;/&nbsp;</span>
+  <a href="https://atomgit.com/iaoexl" target="_blank" rel="noopener">&nbsp;AtomGit
+  </a>
+  &nbsp;&nbsp;
   <a href="https://cnb.cool/u/iaoexl" target="_blank" rel="noopener">
     <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://gitee.com/iaoexl" target="_blank" rel="noopener">
     <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/iaoexl" target="_blank" rel="noopener">
     <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
   </a>
